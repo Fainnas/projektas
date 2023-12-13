@@ -1,6 +1,6 @@
 # Food-ordering-application
 
-
+mongodb+srv://User1:Admin@cluster0.z6gaace.mongodb.net/?retryWrites=true&w=majority
 1. Download The project
 
 2. Open it in VS Code
